@@ -1,6 +1,6 @@
 # Find The Malicius User
 
-Download the following ISO and run the computer in Virtual Box inside your computer.
+Download the following ISO (daniela will provide ubuntu server) and run the computer in Virtual Box inside your computer.
 
 Acabas de ser ingresado al equipo de ciberseguridad de 4Geeks Academy. En este momento, el equipo se encuentra levantando un servidor web para la plataforma de E-Learning. Este equipo está conformado por:
 
