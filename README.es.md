@@ -1,8 +1,8 @@
-# Find The Malicius User
+# Encuentra al Usuario Malicioso
 
-Download the following [virtual machine with Ubuntu Server](https://storage.googleapis.com/breathecode/virtualbox/Ubuntu-Server-Find-Malicious-User.zip) and run the computer in Virtual Box inside your computer.
+Descarga la siguiente [máquina virtual con Ubuntu Server](https://storage.googleapis.com/breathecode/virtualbox/Ubuntu-Server-Find-Malicious-User.zip) y ejecuta la computadora en Virtual Box en tu ordenador.
 
-Acabas de ser ingresado al equipo de ciberseguridad de 4Geeks Academy. En este momento, el equipo se encuentra levantando un servidor web con Ubuntu para la plataforma de E-Learning. Este equipo está conformado por:
+Acabas de unirte al equipo de ciberseguridad de 4Geeks Academy. El equipo está actualmente configurando un servidor web con Ubuntu para la plataforma de E-Learning. Este equipo está compuesto por:
 
 1. Alejandro
 2. Daniela
@@ -10,12 +10,11 @@ Acabas de ser ingresado al equipo de ciberseguridad de 4Geeks Academy. En este m
 4. Chema
 5. Analista (Tú)
 
-Cada usuario tiene directorios y archivos propios y en común, también algunos en común y tienen diferentes permisos sobre los archivos en común. Uno de estos usuarios, tiene permisos que no debería tener y parece que se trae algo entre manos ¿Eres capaz de descubrirlo?
+Cada usuario tiene sus propios directorios y archivos, así como algunos compartidos, con diferentes permisos sobre los archivos compartidos. Uno de estos usuarios tiene permisos que no debería tener y parece que está tramando algo. ¿Puedes descubrir quién es?
 
-1. Descubre al usuario malicioso
-2. Analiza sus movimientos y explica qué intentaba hacer
-3. ¿Qué permisos tenía y sobre qué directorios que le permitían ejecutar esa acción?
-4. ¿Cómo se resuelve este problema?
+1. Identifica al usuario malicioso
+2. Analiza sus acciones y explica qué intentaba hacer
+3. Determina qué permisos tenía y sobre qué directorios que le permitían ejecutar esta acción
+4. Propón una solución a este problema
 
-
-> ⚠️ El permiso Sticky bit (rwx-t) es muy usado para darte acceso selectivo a los archivos y directorios.
+> ⚠️ El permiso Sticky bit (rwx-t) se usa a menudo para otorgar acceso selectivo a archivos y directorios.
