@@ -2,7 +2,7 @@
 
 Download the following [virtual machine with Ubuntu Server](https://storage.googleapis.com/breathecode/virtualbox/Ubuntu-Server-Find-Malicious-User.zip) and run the computer in Virtual Box inside your computer.
 
-Acabas de ser ingresado al equipo de ciberseguridad de 4Geeks Academy. En este momento, el equipo se encuentra levantando un servidor web para la plataforma de E-Learning. Este equipo está conformado por:
+Acabas de ser ingresado al equipo de ciberseguridad de 4Geeks Academy. En este momento, el equipo se encuentra levantando un servidor web con Ubuntu para la plataforma de E-Learning. Este equipo está conformado por:
 
 1. Alejandro
 2. Daniela
