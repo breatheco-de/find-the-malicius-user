@@ -1,6 +1,6 @@
 # Encuentra al Usuario Malicioso
 
-Descarga la siguiente [máquina virtual con Ubuntu Server](https://storage.googleapis.com/breathecode/virtualbox/Ubuntu-Server-Find-Malicious-User.zip) y ejecuta la computadora en Virtual Box en tu ordenador.
+Descarga la siguiente [máquina virtual con Ubuntu Server](https://storage.googleapis.com/breathecode/virtualbox/Ubuntu-Server-Find-Malicious-User.ova) y ejecuta la computadora en Virtual Box en tu ordenador.
 
 Acabas de unirte al equipo de ciberseguridad de 4Geeks Academy. El equipo está actualmente configurando un servidor web con Ubuntu para la plataforma de E-Learning. Este equipo está compuesto por:
 
