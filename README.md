@@ -8,7 +8,14 @@ You have just joined the cybersecurity team at 4Geeks Academy. The team is curre
 2. Daniela
 3. Vanessa
 4. Chema
-5. Analyst (You)
+5. Analista (You)
+
+Your username and password are:
+
+```bash
+username: analista
+password: analista
+```
 
 Each user has their own directories and files, as well as some shared ones, with different permissions on the shared files. One of these users has permissions they shouldn't have and seems to be up to something. Can you discover who it is?
 
@@ -18,3 +25,22 @@ Each user has their own directories and files, as well as some shared ones, with
 4. Propose a solution to this problem
 
 > ⚠️ The Sticky bit permission (rwx-t) is often used to grant selective access to files and directories.
+
+
+## 💡 HELP
+
+- The Ubuntu machine we've designed for you doesn't have a graphical interface because, in addition to testing your hacking skills, we also want to test your command-line skills.
+- The main directory system where you'll be actively investigating is as follows:
+
+```bash
+|- home
+    |-alejandro
+    |-analista
+    |-chema
+    |-daniela
+    |-vanessa
+    |-vboxuser
+```
+> ⚠️ Upon logging in, you will be positioned in the ./analista directory.
+
+- The first instructions can be found in the ./home directory.
