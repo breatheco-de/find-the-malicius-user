@@ -15,6 +15,7 @@
   "technologies": ["Linux", "ubuntu", "cybersecurity", "ciberseguridad"],
 	"repository": "https://github.com/breatheco-de/find-the-malicius-user",
 	"duration": 2,
+	"projectType": "project",
 	"difficulty": "intermediate",
 	"delivery":{
 		"formats": ["no_delivery"]
