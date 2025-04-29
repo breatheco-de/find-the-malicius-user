@@ -5,7 +5,7 @@
   },
   "description": {
     "es": "Este proyecto tiene como objetivo identificar y abordar el acceso no autorizado dentro del equipo de ciberseguridad de 4Geeks Academy. Mediante el análisis de permisos de usuario, registros del sistema y actividades sospechosas, identificaremos al usuario malicioso, entenderemos sus acciones e implementaremos medidas correctivas para garantizar la seguridad del servidor web basado en Ubuntu. El proyecto implica una revisión detallada de permisos, monitoreo continuo y capacitación de seguridad mejorada para el equipo con el fin de prevenir futuros incidentes.",
-    "en": "This project aims to identify and address unauthorized access within the cybersecurity team at 4Geeks Academy. By analyzing user permissions, system logs, and suspicious activities, we will pinpoint the malicious user, understand their actions, and implement corrective measures to ensure the security of the Ubuntu-based web server. The project involves a detailed review of permissions, continuous monitoring, and enhanced security training for the team to prevent future incidents."
+    "us": "This project aims to identify and address unauthorized access within the cybersecurity team at 4Geeks Academy. By analyzing user permissions, system logs, and suspicious activities, we will pinpoint the malicious user, understand their actions, and implement corrective measures to ensure the security of the Ubuntu-based web server. The project involves a detailed review of permissions, continuous monitoring, and enhanced security training for the team to prevent future incidents."
   },
   "solution": {
     "en": "https://github.com/breatheco-de/find-the-malicius-user/blob/main/SOLUTION.md",
